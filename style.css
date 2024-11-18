@@ -1,0 +1,73 @@
+h1,
+h2,
+h3,
+h4,
+p,
+li {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 43px;
+  background-color: rgb(86, 7, 97);
+  text-transform: initial;
+  font-style: oblique;
+  font-family: "Times New Roman", Times, serif;
+  -webkit-text-fill-color: rgb(255, 255, 255);
+  text-align: center;
+  color: rgb(15, 1, 17);
+}
+
+h2 {
+  font-size: 40px;
+  color: rgb(92, 14, 102);
+}
+
+h3 {
+  font-size: 30px;
+  color: rgb(92, 14, 102);
+}
+
+h4 {
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+p {
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+li {
+  font-size: 20px;
+}
+
+footer p {
+  font-size: 16px;
+}
+
+/* article header p {
+  font-style: italic;
+} */
+
+#author {
+  font-style: italic;
+  font-size: 18px;
+}
+
+#copyright {
+  font-size: 16px;
+}
+
+.related-author {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* ul {
+  list-style: none;
+} */
+
+.related {
+  list-style: none;
+}
