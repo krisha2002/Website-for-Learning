@@ -10,12 +10,13 @@ li {
 
 h1 {
   font-size: 43px;
-  text-transform: initial;
-  font-style: oblique;
+  text-transform: uppercase;
+  font-style: inherit;
   font-family: "Times New Roman", Times, serif;
   -webkit-text-fill-color: rgb(19, 70, 77);
   text-align: center;
-  color: rgb(25, 92, 109);
+  color: rgba(46, 123, 146, 0.76);
+  text-decoration-line: underline;
 }
 
 h2,
@@ -32,9 +33,10 @@ h3 {
 }
 
 h4 {
-  font-size: 20px;
+  font-size: 22px;
   text-transform: uppercase;
   text-align: center;
+  text-decoration-line: underline;
 }
 p {
   font-size: 22px;
@@ -81,6 +83,10 @@ footer p {
 
 aside {
   background-color: #6863630c;
-  border-top: 5px, solid, rgb(65, 139, 129);
-  border-bottom: 5px, solid, rgb(65, 139, 129);
+  border-top: 5px solid rgba(10, 10, 10, 0.274);
+  border-bottom: 5px solid rgba(10, 10, 10, 0.274);
+}
+
+body {
+  background-color: rgba(223, 245, 216, 0.096);
 }
