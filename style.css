@@ -5,27 +5,30 @@ h4,
 p,
 li {
   font-family: sans-serif;
+  color: #444;
 }
 
 h1 {
   font-size: 43px;
-  background-color: rgb(86, 7, 97);
   text-transform: initial;
   font-style: oblique;
   font-family: "Times New Roman", Times, serif;
-  -webkit-text-fill-color: rgb(255, 255, 255);
+  -webkit-text-fill-color: rgb(19, 70, 77);
   text-align: center;
-  color: rgb(15, 1, 17);
+  color: rgb(25, 92, 109);
 }
 
+h2,
+h3,
+h4 {
+  color: rgb(65, 139, 129);
+}
 h2 {
   font-size: 40px;
-  color: rgb(92, 14, 102);
 }
 
 h3 {
   font-size: 30px;
-  color: rgb(92, 14, 102);
 }
 
 h4 {
@@ -70,4 +73,8 @@ footer p {
 
 .related {
   list-style: none;
+}
+
+.main {
+  background-color: black;
 }
