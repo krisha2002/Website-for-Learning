@@ -78,3 +78,9 @@ footer p {
 .main {
   background-color: black;
 }
+
+aside {
+  background-color: #6863630c;
+  border-top: 5px, solid, rgb(65, 139, 129);
+  border-bottom: 5px, solid, rgb(65, 139, 129);
+}
