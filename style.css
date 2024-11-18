@@ -90,3 +90,7 @@ aside {
 body {
   background-color: rgba(223, 245, 216, 0.096);
 }
+
+.first-li{
+  font-weight: bold;
+}
