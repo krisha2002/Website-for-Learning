@@ -90,6 +90,14 @@ body {
   background-color: rgba(110, 131, 104, 0);
 }
 
-.first-li{
+/* .first-li{
   font-weight: bold;
+} */
+
+li:first-child{
+  font-weight: bold;
+}
+
+li:last-child:{
+  font-style: italic;
 }
