@@ -5,7 +5,7 @@ h4,
 p,
 li {
   font-family: sans-serif;
-  color: #4d6e6c;
+  color: #181717d8;
 }
 
 h1 {
@@ -13,16 +13,16 @@ h1 {
   text-transform: uppercase;
   font-style: inherit;
   font-family: "Times New Roman", Times, serif;
-  -webkit-text-fill-color: rgb(23, 43, 42);
+  -webkit-text-fill-color: rgba(20, 51, 71, 0.829);
   text-align: center;
-  color: rgba(35, 106, 128, 0);
+  color: rgba(66, 138, 134, 0.062);
   text-decoration-line: underline;
 }
 
 h2,
 h3,
 h4 {
-  color: rgb(65, 139, 129);
+  color: rgba(23, 71, 65, 0.685);
 }
 h2 {
   font-size: 40px;
@@ -88,7 +88,7 @@ aside {
 }
 
 body {
-  background-color: rgba(223, 245, 216, 0.096);
+  background-color: rgba(110, 131, 104, 0);
 }
 
 .first-li{
